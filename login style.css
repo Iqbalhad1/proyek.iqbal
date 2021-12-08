@@ -1,0 +1,110 @@
+body { 
+    margin: 0; 
+    padding: 0; 
+    background-image: url(data:image/jpeg;base64,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); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; background-attachment: fixed; 
+    font-family: 'rockwell'; 
+    } 
+    
+    .login { 
+    position: fixed; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-30%, -50%); 
+    background: cyan;
+    padding: 50px; 
+    width: 270px; 
+    box-shadow: 0px 0px 25px 10px black; 
+    border-radius: 15px; 
+    } 
+    
+    .avatar { 
+    font-size: 30px ; 
+    background: deeppink; 
+    width: 50px; 
+    height: 50px; 
+    line-height: 50px; 
+    position: fixed; 
+    left: 50%; 
+    top: 0; 
+    transform: translate(-50%, -50%); 
+    text-align: center; 
+    border-radius: 50%;
+    } 
+    
+    .login h2 { 
+    text-align: center; 
+    color: white; 
+    font-size: 30px; 
+    font-family: 'rockwell';
+    letter-spacing: 3px; 
+    padding-top: 0; 
+    margin-top: -20px; 
+    } 
+    
+    .box-login { 
+    display: flex; 
+    justify-content:space-between; 
+    margin: 10px; 
+    border-bottom: 2px solid white; 
+    padding: 8px 0; 
+    } 
+    
+    .box-login i { 
+    font-size: 23px; 
+    color: white; 
+    padding: 5px 0; 
+    } 
+    
+    .box-login input {
+    width: 85%; 
+    padding: 5px 0; 
+    background: none; 
+    border: none; 
+    outline: none; 
+    color: #000000; 
+    font-size: 18px; 
+    } 
+    
+    .box-login input:placeholder { 
+    color: white; 
+    } 
+    
+    .btn-login { 
+    background: rgba(10, 10, 10,s 0.5); 
+    } 
+    
+    .btn-login {
+    margin-left: 10px; 
+    margin-bottom: 20px; 
+    background: none; 
+    border: 1px solid white; 
+    width: 92.5%; 
+    padding: 10px; 
+    color: #000000; 
+    font-size: 18px; 
+    letter-spacing: 3px; 
+    cursor: pointer; } 
+    
+    .btn-login:hover{ 
+    background: rgba(12, 30, 15, 0.5); 
+    } 
+    
+    .bottom { 
+    margin-left: 10px; 
+    margin-right: 10px; 
+    display: flex; 
+    justify-content: space-between; 
+    } 
+    
+    .bottom a { 
+    color: white; 
+    font-size: 15px; 
+    text-decoration: none; 
+    } 
+    
+    .bottom a:hover { 
+    text-decoration: underline; 
+    }
